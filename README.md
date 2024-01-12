@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning how to use GitHub
-- 🔭 I’m currently working on a Home Assistant implementation
+- 🔭 I’m working on a Home Assistant implementation
 - ⚡ Fun fact: I've escaped a serial killer TWICE in my life
 
 <!--
