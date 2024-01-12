@@ -2,8 +2,9 @@
 
 - 🌱 I’m currently learning how to use GitHub
 - 🔭 I’m currently working on a Home Assistant implementation
-- ⚡ Fun fact: I've escaped a serial killer TWICE in my life 
-- <!--
+- ⚡ Fun fact: I've escaped a serial killer TWICE in my life
+
+<!--
 **HalfLungHiker/HalfLungHiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
